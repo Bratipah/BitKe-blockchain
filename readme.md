@@ -2,4 +2,4 @@
 * Git Introduction
 * Markdown Documentation
 ## Motivation
-![Image description](https://github.com/Bratipah/BitKe-blockchain/tree/main/images)
+![Image description]([https://github.com/Bratipah/BitKe-blockchain/tree/main/images](https://github.com/Bratipah/BitKe-blockchain/blob/main/images/blockchain.jpeg.jpg))
